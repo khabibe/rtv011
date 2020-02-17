@@ -1,0 +1,29 @@
+camera:
+  - eye:
+  0 0 -10
+  - look_at: 
+  0 0 0
+  - fov:
+  55
+
+  light:
+  - origin:
+  -100 0 0
+  - intensity:
+  1
+
+  object:
+  - name:
+  sphere
+  - center:
+  0 0 0
+  - radius:
+  3
+  - ks:
+  0.11
+  - kd:
+  1
+  - n:
+  20
+  - color:
+ 255
